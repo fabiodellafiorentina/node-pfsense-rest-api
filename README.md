@@ -1,2 +1,2 @@
-<img height="100px" src="logopfsense.png" align="left"><br/>
+<img height="100px" src="pfsenselogo.png" align="left"><br/>
 # node-pfsense-rest-api
