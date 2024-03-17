@@ -1,6 +1,6 @@
 {
   "name": "pfsense-rest-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NodeJS class for querying pfSense REST API",
   "main": "pfsense.js",
   "scripts": {
